@@ -20,21 +20,15 @@ Aqui podemos fazer qualquer coisa e todos podem colaborar.
 
 Uma iniciativa para juntar membros das comunidades que precisam estudar ou praticar alguma tecnologia.
 
-Os grupos podem tanto fazer grupos de estudos para aprenderem uma tecnologia juntos, quanto criar um projeto para treinar suas habilidades.
+Podem fazer grupos de estudos para aprenderem uma tecnologia ou você pode criar um projeto para treinar as habilidades.
 
-Pode acontecer de aparecer alguma ideia de Freela, fiquem a vontade para trocarem contatos, se planejarem e tudo mais. - Porém a responsabilidade de pagamentos e demais encargos de um serviço freelance está fora do escopo da organização desse projeto.
+A intenção é movimentar e juntar pessoas com o mesmo objetivo.
 
-A intenção é movimentar a galera e juntar pessoas com o mesmo objetivo.
+## O que estudaremos?
 
-## O que vamos estudar?
+Front End, Back End, Android, Ios, Nodejs, Python, Pentest, C, C++, Java - Sim, até Java! 
 
-Front End, Back End, Android, IO's, Nodejs, Python, Pentest, C, C++, Java - Sim, até Java! Qualquer coisa que de para fazer juntando uma turma e desenvolvendo alguma coisa remotamente.
-
-Se tiver uma galera para estudar presencialmente em algum espaço em sua cidade, sem problemas.
-
-A ideia aqui é juntar esse povo e os grupos decidirem o que é melhor para eles.
-
-Cada grupo pode se organizar como achar melhor.
+O grupo pode estudar remotamente ou em alguma cidade. A ideia é unir pessoas que tem o mesmo interesse para que todos possam evoluir. Como vão se organizar? Fica a critério de cada grupo.
 
 ## Como os grupos podem se comunicar
 
